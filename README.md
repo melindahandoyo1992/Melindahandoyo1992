@@ -43,5 +43,6 @@ Key topics:
 ## Currently Learning
 
 - Advanced SQL
+- Advanced Python
 - Data storytelling
 - Business analytics frameworks
