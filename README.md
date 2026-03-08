@@ -36,6 +36,7 @@ Key topics:
 ## Tools
 
 - SQL
+- Python
 - Tableau
 - GitHub
 
