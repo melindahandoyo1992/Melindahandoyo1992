@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Melinda 👋
 
-<!--
-**melindahandoyo1992/Melindahandoyo1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with a focus on business insights and data-driven decision making.
 
-Here are some ideas to get you started:
+I enjoy transforming raw data into meaningful insights using SQL and data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- SQL (MySQL)
+- Tableau
+- Data Analysis
+- Business Analytics
+- Data Visualization
+
+## Portfolio Projects
+
+### E-commerce Sales Performance Analysis
+SQL and Tableau analysis exploring revenue trends, customer contribution, and product category performance.
+
+Key topics:
+- Revenue trend analysis
+- Customer revenue concentration
+- Category performance
+- Sales volatility
+
+### Customer Purchase Behavior Analysis (RFM)
+Customer segmentation analysis using RFM (Recency, Frequency, Monetary) to understand purchase patterns and customer engagement.
+
+Key topics:
+- Customer segmentation
+- Purchase frequency analysis
+- Repeat purchase behavior
+- Customer engagement strategies
+
+## Tools
+
+- SQL
+- Tableau
+- GitHub
+
+## Currently Learning
+
+- Advanced SQL
+- Data storytelling
+- Business analytics frameworks
