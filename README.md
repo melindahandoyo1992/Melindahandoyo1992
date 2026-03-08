@@ -7,6 +7,7 @@ I enjoy transforming raw data into meaningful insights using SQL and data visual
 ## Skills
 
 - SQL (MySQL)
+- Python (pandas,numpy,matplotlib,seaborn)
 - Tableau
 - Data Analysis
 - Business Analytics
