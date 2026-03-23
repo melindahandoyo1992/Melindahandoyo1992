@@ -2,7 +2,7 @@
 
 Aspiring Data Analyst with a focus on business insights and data-driven decision making.
 
-I enjoy transforming raw data into meaningful insights using SQL and data visualization.
+I enjoy transforming raw data into meaningful insights using SQL, Python and data visualization.
 
 ## Skills
 
