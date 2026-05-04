@@ -33,6 +33,17 @@ Key topics:
 - Repeat purchase behavior
 - Customer engagement strategies
 
+### Revenue Fluctuation & Driver Analysis (Cafe Business)
+Analysis to identify key drivers of revenue changes, focusing on order volume, product mix, and pricing impact.
+
+Key topics:
+
+- Revenue trend and fluctuation analysis
+- Product mix impact on revenue
+- Order volume vs pricing contribution
+- Customer purchasing patterns
+- Business recommendations for revenue growth
+
 ## Tools
 
 - SQL
